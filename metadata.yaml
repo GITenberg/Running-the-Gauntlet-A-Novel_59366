@@ -1,11 +1,16 @@
 _repo: Running-the-Gauntlet-A-Novel_59366
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Yates, Edmund
     gutenberg_agent_id: '50007'
     url: http://www.gutenberg.org/2009/agents/50007
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59366#Running-the-Gauntlet-A-Novel
 gutenberg_issued: '2019-04-26'
 gutenberg_type: Text
 identifiers:
